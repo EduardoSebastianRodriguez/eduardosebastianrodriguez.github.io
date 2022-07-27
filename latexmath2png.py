@@ -74,7 +74,7 @@ def __write_output(infile, outdir, workdir = '.', prefix = '', dpi = 100):
 
         # Something bad happened, abort
         if rc != 0:
-            print p.stdout.read()
+            print (p.stdout.read())
             raise Exception('latex error')
 
 
