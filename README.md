@@ -1,2 +1,1 @@
-# eduardosebastianrodriguez.github.io
-This is my personal webpage
+This is the code of my personal webpage
